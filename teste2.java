@@ -4,7 +4,7 @@
  * @author (seu nome) 
  * @version (um número da versão ou uma data)
  */
-public class teste1
+public class teste2
 {
     // variáveis de instância - substitua o exemplo abaixo pelo seu próprio
     private int x;
@@ -12,7 +12,7 @@ public class teste1
     /**
      * Construtor para objetos da classe teste1
      */
-    public teste1()
+    public teste2()
     {
         // inicializa variáveis de instância
         x = 0;
